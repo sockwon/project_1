@@ -35,6 +35,9 @@
 - 마이페이지(GET)
 - 회원탈퇴(DELETE)
 
+#맡은 역할
+- 회원가입, 로그인, 마이페이지, 회원탈퇴, 장바구니 구현
+
 
 # API Documentation
 - [API Documentation](https://www.notion.so/API-970383b54823446db05e1d2580ede375)
